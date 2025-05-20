@@ -20,9 +20,11 @@ Future Enhancements
 4. Enhance UI with front-end frameworks or Streamlit Components
 
 Contributing
+
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
 Author
+
 oindrila-08
 
 
